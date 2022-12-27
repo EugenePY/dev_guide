@@ -11,6 +11,12 @@
 References
 - [python setup.cfg](https://setuptools.pypa.io/en/latest/userguide/declarative_config.html)
 
+## Installation
+
+```shell
+tox --devenv venv-py37 -e py37
+```
+
 # How to write a parser from scratch
 
 1. Tokenizer

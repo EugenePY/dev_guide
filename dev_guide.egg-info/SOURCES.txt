@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+dev_guide.egg-info/PKG-INFO
+dev_guide.egg-info/SOURCES.txt
+dev_guide.egg-info/dependency_links.txt
+dev_guide.egg-info/not-zip-safe
+dev_guide.egg-info/requires.txt
+dev_guide.egg-info/top_level.txt
+src/__init__.py
